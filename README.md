@@ -31,15 +31,15 @@ Aplikasi ini dibangun menggunakan conditionals (if), perulangan (while), dan fun
 
 **bash**
 
-git clone https://github.com/username/repo-nabila-app.git
+git clone https://github.com/nabilajkth/PythonCart_Belanja-di-Terminal.git
 
-cd repo-nabila-app
+cd PythonCart_Belanja-di-Terminal
    
 2. Jalankan file Python di terminal atau Anaconda Prompt:
 
 **bash**
 
-python nabila_app.py
+python nabila_sulistiowati_app.py
 
 3. Ikuti petunjuk menu yang muncul di layar untuk mengoperasikan aplikasi.
 
